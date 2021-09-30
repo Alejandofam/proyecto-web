@@ -10,3 +10,4 @@
     if(!$conection){
         echo "error en la conexion";
     }
+    ?>
