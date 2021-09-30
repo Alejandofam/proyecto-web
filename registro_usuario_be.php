@@ -3,7 +3,7 @@
     include 'php/c_be.php';
 
     $nombre_completo = $_POST['nombre_completo'];
-     $apellido_paterno  
+    //$apellido_paterno  
 
     $correo = $_POST['correo'];
     $usuario = $_POST['usuario'];
